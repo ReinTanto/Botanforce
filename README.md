@@ -18,7 +18,9 @@
 | **Colorway** | Dark grey anodized case with gold-painted engravings |
 | **Design base** | Modeled after the Realforce R2 case (Norbauer design style) |
 | **Emblems** | Sashimi-chan (Sishiro Botan's cat) — engraved on the bottom plate & a small cat mark on the top |
+| **Plate** | Stock Realforce R2 TKL plate — no screws to the case, just sandwiched between the case |
 | **Assembly** | 6 screws; the aluminium plate is bolt-free |
+| **Daughterboard** | Custom USB-C daughterboard for the Realforce R2 |
 | **Feet** | Geon rectangle silicone feet — cover the screw holes |
 | **Sound profile** | Muted "toki" sound — aluminium plate + aluminium case |
 | **Sourced from** | Alibaba supplier (China) |
