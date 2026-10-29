@@ -3,7 +3,7 @@
 > *"A one-off Realforce R2 TKL aluminium case, CNC-machined and anodized — themed after* ***Sishiro Botan***."
 
 <p align="center">
-  <img src="images/final/01-assembled-desk.jpg" width="700" alt="Botanforce on the desk" />
+  <img src="images/final/05-desk-angle.jpg" width="700" alt="Botanforce on the desk" />
 </p>
 
 ---
