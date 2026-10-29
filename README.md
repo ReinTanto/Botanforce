@@ -14,13 +14,16 @@
 |---|---|
 | **Layout** | Realforce R2 TKL (87-key) |
 | **Type** | One-off — a single case, not for sale |
-| **Case** | CNC-machined 6061 aluminium, anodized |
+| **Case** | CNC-machined 6061 aluminium, dark grey anodized |
 | **Colorway** | Dark grey anodized case with gold-painted engravings |
 | **Design base** | Modeled after the Realforce R2 case (Norbauer design style) |
 | **Emblems** | Sashimi-chan (Sishiro Botan's cat) — engraved on the bottom plate & a small cat mark on the top |
 | **Plate** | Stock Realforce R2 TKL plate — no screws to the case, just sandwiched between the case |
 | **Assembly** | 6 screws; the aluminium plate is bolt-free |
 | **Daughterboard** | Custom USB-C daughterboard for the Realforce R2 |
+| **PCB** | Stock Realforce R2 PCB |
+| **Switches** | Original Topre assembly, 55g cones |
+| **Keycaps** | KBDfans Topre Grey (with red accent keys) |
 | **Feet** | Geon rectangle silicone feet — cover the screw holes |
 | **Sound profile** | Muted "toki" sound — aluminium plate + aluminium case |
 | **Sourced from** | Alibaba supplier (China) |
