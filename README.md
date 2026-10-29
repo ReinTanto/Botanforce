@@ -19,6 +19,7 @@
 | **Design base** | Modeled after the Realforce R2 case (Norbauer design style) |
 | **Emblems** | Sashimi-chan (Sishiro Botan's cat) — engraved on the bottom plate & a small cat mark on the top |
 | **Assembly** | 6 screws; the aluminium plate is bolt-free |
+| **Feet** | Geon rectangle silicone feet — cover the screw holes |
 | **Sound profile** | Muted "toki" sound — aluminium plate + aluminium case |
 | **Sourced from** | Alibaba supplier (China) |
 
@@ -37,7 +38,7 @@ The design was modeled in 3D and rendered in May 2023.
 </p>
 
 <details>
-<summary>Bottom plate — desk render</summary>
+<summary>Top view — desk render</summary>
 <p align="center"><img src="images/design/02-bottom-plate-desk.png" width="700" /></p>
 </details>
 
@@ -85,7 +86,7 @@ botanforce/
 └── images/
     ├── design/
     │   ├── 01-bottom-plate.png            # Bottom plate render — nameplate + cat engraving
-    │   ├── 02-bottom-plate-desk.png       # Bottom plate render on desk
+    │   ├── 02-bottom-plate-desk.png       # Top view desk render
     │   └── 03-bottom-cat-engraving.png    # Sashimi-chan engraving close-up (render)
     └── final/
         ├── 01-assembled-desk.jpg          # Assembled board on the desk (May 15, 2023)
